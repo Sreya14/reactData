@@ -1,0 +1,21 @@
+{
+	"details":[
+
+		{
+			"card":{
+				"name":"Sreya",
+				"email":"potlurisreya@gmail.com",
+				"mobile":"9877655433"
+			},
+			"career":"I want to be a software Engineer"
+		},
+		{
+			"card":{
+				"name":"Potluri",
+				"email":"sreyapotluri@gmail.com",
+				"mobile":"9087654689"
+			},
+			"career":"I want to be a Developer"
+		}
+	]
+}
